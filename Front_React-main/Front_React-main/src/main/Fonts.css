@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "SeoulHangang";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./Fonts/서울한강장체BL.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Hanna";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./Fonts/BMHANNAPro.woff") format("woff");
+}
+@font-face {
+  font-family: "Saebang";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./Fonts/세방고딕B.woff") format("woff");
+}
+
+  * {
+    font-family : 'Saebang'
+  }
